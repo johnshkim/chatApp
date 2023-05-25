@@ -22,6 +22,6 @@ Crud created, uppload file created and the send email with sendgrid.
 MongoDB Data base cluster created 
 
 .env 
-NOSQL_CONNECTION_STRING=mongodb+srv://john:321@clusterdesafio.z6hwr.mongodb.net/test
+NOSQL_CONNECTION_STRING=
 
 
